@@ -1,0 +1,15 @@
+.profile.list{
+    row-gap: 32px;
+}
+.profile-item{
+    padding: 35px;
+}
+.profile-item-img{
+    margin-bottom: 0.8rem;
+}
+.profile-item-img img{
+    width: 80px;
+}
+.profile-item-text .text{
+    max-width: 460px;
+}

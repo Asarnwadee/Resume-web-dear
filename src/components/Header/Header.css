@@ -1,0 +1,25 @@
+.header{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0,0, 0, 0.4)), 
+    url("../../assets/picture/software-developer-6521720_1280.jpg") center/cover no-repeat;
+    justify-content: stretch;
+}
+.header > .container{
+    height: 100%;
+    flex: 1%;
+    width: 100%;
+}
+.header-title{
+    font-size: 28px;
+    line-height: 1.4;
+    margin-top: 28px;
+    max-width: 600px;
+}
+.header .btn-groups{
+    margin-top: 80px;
+}
+.header .btn-groups .btn-item{
+    font-size: 25px;
+    padding: 24px 32px;
+}
+   
